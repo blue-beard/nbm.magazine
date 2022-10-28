@@ -1,0 +1,194 @@
+[
+  {
+    "LAPTOP_ID": 1,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 1,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 1,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 2,
+    "OPTION_ID": 2
+  },
+  {
+    "LAPTOP_ID": 2,
+    "OPTION_ID": 3
+  },
+  {
+    "LAPTOP_ID": 2,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 3,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 3,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 3,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 4,
+    "OPTION_ID": 2
+  },
+  {
+    "LAPTOP_ID": 4,
+    "OPTION_ID": 3
+  },
+  {
+    "LAPTOP_ID": 4,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 5,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 5,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 5,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 6,
+    "OPTION_ID": 2
+  },
+  {
+    "LAPTOP_ID": 6,
+    "OPTION_ID": 3
+  },
+  {
+    "LAPTOP_ID": 6,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 7,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 7,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 7,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 8,
+    "OPTION_ID": 4
+  },
+  {
+    "LAPTOP_ID": 8,
+    "OPTION_ID": 7
+  },
+  {
+    "LAPTOP_ID": 8,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 9,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 9,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 9,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 10,
+    "OPTION_ID": 2
+  },
+  {
+    "LAPTOP_ID": 10,
+    "OPTION_ID": 4
+  },
+  {
+    "LAPTOP_ID": 10,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 11,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 11,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 11,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 12,
+    "OPTION_ID": 3
+  },
+  {
+    "LAPTOP_ID": 12,
+    "OPTION_ID": 7
+  },
+  {
+    "LAPTOP_ID": 12,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 13,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 13,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 13,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 14,
+    "OPTION_ID": 2
+  },
+  {
+    "LAPTOP_ID": 14,
+    "OPTION_ID": 4
+  },
+  {
+    "LAPTOP_ID": 14,
+    "OPTION_ID": 9
+  },
+  {
+    "LAPTOP_ID": 15,
+    "OPTION_ID": 1
+  },
+  {
+    "LAPTOP_ID": 15,
+    "OPTION_ID": 6
+  },
+  {
+    "LAPTOP_ID": 15,
+    "OPTION_ID": 8
+  },
+  {
+    "LAPTOP_ID": 16,
+    "OPTION_ID": 3
+  },
+  {
+    "LAPTOP_ID": 16,
+    "OPTION_ID": 7
+  },
+  {
+    "LAPTOP_ID": 16,
+    "OPTION_ID": 9
+  }
+]

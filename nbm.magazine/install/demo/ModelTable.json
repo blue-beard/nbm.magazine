@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 1,
+    "NAME": "RedmiBook",
+    "BRAND_ID": 1,
+    "CODE": "RedmiBook"
+  },
+  {
+    "ID": 2,
+    "NAME": "Mi Gaming Laptop",
+    "BRAND_ID": 1,
+    "CODE": "Mi_Gaming_Laptop"
+  },
+  {
+    "ID": 3,
+    "NAME": "MagicBook X",
+    "BRAND_ID": 2,
+    "CODE": "MagicBook_X"
+  },
+  {
+    "ID": 4,
+    "NAME": "MagicBook Pro",
+    "BRAND_ID": 2,
+    "CODE": "MagicBook_Pro"
+  },
+  {
+    "ID": 5,
+    "NAME": "Ideapad",
+    "BRAND_ID": 3,
+    "CODE": "Ideapad"
+  },
+  {
+    "ID": 6,
+    "NAME": "Thinkpad",
+    "BRAND_ID": 3,
+    "CODE": "Thinkpad"
+  },
+  {
+    "ID": 7,
+    "NAME": "UltraSuperBook",
+    "BRAND_ID": 4,
+    "CODE": "UltraSuperBook"
+  },
+  {
+    "ID": 8,
+    "NAME": "MateBook",
+    "BRAND_ID": 4,
+    "CODE": "MateBook"
+  }
+]

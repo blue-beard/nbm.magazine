@@ -1,0 +1,146 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Xiaomi RedmiBook",
+    "YEAR": 2022,
+    "PRICE": 44000,
+    "MODEL_ID": 1,
+    "BRAND_ID": 1,
+    "CODE": "Xiaomi_RedmiBook"
+  },
+  {
+    "ID": 2,
+    "NAME": "Xiaomi RedmiBook II",
+    "YEAR": 2021,
+    "PRICE": 45000,
+    "MODEL_ID": 1,
+    "BRAND_ID": 1,
+    "CODE": "Xiaomi_RedmiBook_II"
+  },
+  {
+    "ID": 3,
+    "NAME": "Xiaomi Mi Gaming Laptop",
+    "YEAR": 2020,
+    "PRICE": 62000,
+    "MODEL_ID": 2,
+    "BRAND_ID": 1,
+    "CODE": "Xiaomi_Mi_Gaming_Laptop"
+  },
+  {
+    "ID": 4,
+    "NAME": "Xiaomi Mi Gaming Laptop+",
+    "YEAR": 2019,
+    "PRICE": 47000,
+    "MODEL_ID": 2,
+    "BRAND_ID": 1,
+    "CODE": "Xiaomi_Mi_Gaming_Laptop_Plus"
+  },
+  {
+    "ID": 5,
+    "NAME": "Honor MagicBook X 14",
+    "YEAR": 2018,
+    "PRICE": 34000,
+    "MODEL_ID": 3,
+    "BRAND_ID": 2,
+    "CODE": "Honor_MagicBook_X_14"
+  },
+  {
+    "ID": 6,
+    "NAME": "Honor MagicBook X 15",
+    "YEAR": 2017,
+    "PRICE": 99999,
+    "MODEL_ID": 3,
+    "BRAND_ID": 2,
+    "CODE": "Honor_MagicBook_X_15"
+  },
+  {
+    "ID": 7,
+    "NAME": "Honor MagicBook Pro",
+    "YEAR": 2016,
+    "PRICE": 78000,
+    "MODEL_ID": 4,
+    "BRAND_ID": 2,
+    "CODE": "Honor_MagicBook_Pro"
+  },
+  {
+    "ID": 8,
+    "NAME": "Honor MagicBook Pro II",
+    "YEAR": 2015,
+    "PRICE": 66666,
+    "MODEL_ID": 4,
+    "BRAND_ID": 2,
+    "CODE": "Honor_MagicBook_Pro_II"
+  },
+  {
+    "ID": 9,
+    "NAME": "Lenovo Ideapad",
+    "YEAR": 2014,
+    "PRICE": 52000,
+    "MODEL_ID": 5,
+    "BRAND_ID": 3,
+    "CODE": "Lenovo_Ideapad"
+  },
+  {
+    "ID": 10,
+    "NAME": "Lenovo Ideapad X",
+    "YEAR": 2013,
+    "PRICE": 62110,
+    "MODEL_ID": 5,
+    "BRAND_ID": 3,
+    "CODE": "Lenovo_Ideapad_X"
+  },
+  {
+    "ID": 11,
+    "NAME": "Lenovo Thinkpad III",
+    "YEAR": 2012,
+    "PRICE": 33333,
+    "MODEL_ID": 6,
+    "BRAND_ID": 3,
+    "CODE": "Lenovo_Thinkpad_III"
+  },
+  {
+    "ID": 12,
+    "NAME": "Lenovo Thinkpad Pro+ Limited Edition",
+    "YEAR": 2011,
+    "PRICE": 55555,
+    "MODEL_ID": 6,
+    "BRAND_ID": 3,
+    "CODE": "Lenovo_Thinkpad_Pro_Limited_Edition"
+  },
+  {
+    "ID": 13,
+    "NAME": "Huawei UltraSuperBook",
+    "YEAR": 2010,
+    "PRICE": 44444,
+    "MODEL_ID": 7,
+    "BRAND_ID": 4,
+    "CODE": "Huawei_UltraSuperBook"
+  },
+  {
+    "ID": 14,
+    "NAME": "Huawei UltraSuperBook II",
+    "YEAR": 2009,
+    "PRICE": 12345,
+    "MODEL_ID": 7,
+    "BRAND_ID": 4,
+    "CODE": "Huawei_UltraSuperBook_II"
+  },
+  {
+    "ID": 15,
+    "NAME": "Huawei MateBook",
+    "YEAR": 2008,
+    "PRICE": 78945,
+    "MODEL_ID": 8,
+    "BRAND_ID": 4,
+    "CODE": "Huawei_MateBook"
+  },
+  {
+    "ID": 16,
+    "NAME": "Huawei MateBook +++",
+    "YEAR": 2007,
+    "PRICE": 101010,
+    "MODEL_ID": 8,
+    "BRAND_ID": 4,
+    "CODE": "Huawei_MateBook_Plusss"
+  }
+]

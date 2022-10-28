@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Xiaomi",
+    "CODE": "Xiaomi"
+  },
+  {
+    "ID": 2,
+    "NAME": "Honor",
+    "CODE": "Honor"
+  },
+  {
+    "ID": 3,
+    "NAME": "Lenovo",
+    "CODE": "Lenovo"
+  },
+  {
+    "ID": 4,
+    "NAME": "Huawei",
+    "CODE": "Huawei"
+  }
+]
